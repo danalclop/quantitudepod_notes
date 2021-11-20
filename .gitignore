@@ -3,3 +3,8 @@ _site/
 .jekyll-cache/
 .jekyll-metadata
 _includes/notes_graph.json
+_notes/.obsidian/app.json
+_notes/.obsidian/appearance.json
+_notes/.obsidian/core-plugins.json
+_notes/.obsidian/hotkeys.json
+_notes/.obsidian/workspace
