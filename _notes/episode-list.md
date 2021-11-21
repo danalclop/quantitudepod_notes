@@ -13,3 +13,4 @@ title: Episode List
 - Episode 04 [2021-09-28] Two Time Point Data: What Is Your Quest? ([Link](https://quantitudepod.org/s3e04-two-time-point-data-what-is-your-quest/))
 - Episode 03 [2021-09-21] Principal Components Analysis is your PAL ([Link](https://quantitudepod.org/s3e03-principal-components-analysis-is-your-pal/))
 - Episode 02 [2021-09-07] Johnson-Neyman Regions of Significance ([Link](https://quantitudepod.org/s3e02-johnson-neyman-regions-of-significance/))
+- Episode 01 [2021-08-31] Leaping to Statistical Conclusion Validity ([Link](https://quantitudepod.org/s3e01-leaping-to-statistical-conclusion-validity/ "S3E01: Leaping to Statistical Conclusion Validity"))
